@@ -1,0 +1,6 @@
+what is python:
+	- OOP language
+		think about a car that has a wheel
+		door and geers
+		you don't neccerly know how this works
+		but you use the whole think as a car
