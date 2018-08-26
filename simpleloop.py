@@ -8,12 +8,16 @@ class Fib():
         self.b = b
 
     def series(self):
+        print(self.a,self.b)
         while(True):
             yield(self.b)
             self.a,self.b = self.b,self.a + self.b
 
-f = Fib(0,1)  #constractor
-for r in f.series():
-        if r > 100 :
-            break
-        print(r)
+def main():
+    f = Fib(0,1)  #constractor
+    for r in f.series():
+            if r > 10 :
+                break
+            print(r)
+
+if __name__ == '__main__':main()
