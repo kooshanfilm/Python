@@ -45,7 +45,7 @@ class Cic:
 
 def main():
     cic = Cic(2018,3,6)
-    cic.app_to_now(2018,10,18)
+    cic.test_to_now()
 
 
 
