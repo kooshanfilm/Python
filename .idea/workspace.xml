@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ad2953-4bf7-4eaa-8f8e-ff33bff5c831" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/project2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/revers_array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prime_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/prime_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/revers_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/revers_array.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,8 +25,8 @@
       <file leaf-file-name="revers_array.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/revers_array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            <state relative-caret-position="270">
+              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -666,8 +663,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/revers_array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        <state relative-caret-position="270">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
         </state>
       </provider>
     </entry>
