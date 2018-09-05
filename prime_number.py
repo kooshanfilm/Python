@@ -35,6 +35,9 @@ class Practicing:
         print("Number of prime in range of ","2 to",number,"is", prime_count)
         print("Last prime number is " , last_prime_number)
 
+    def array_p(self):
+
+
 
 def main():
     jadi = Practicing()
@@ -42,9 +45,10 @@ def main():
     #jadi.squre()
     #jadi.name()
     #print (jadi.prime_test(10))
-    jadi.count_prime(4)
+    #jadi.count_prime(4)
 
 
 
 
 if __name__ == '__main__':main()
+
