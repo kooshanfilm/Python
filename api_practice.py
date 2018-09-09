@@ -21,8 +21,11 @@ class Jadi:
 
     def stock(self):
 
-         price =requests.get('https://api.iextrading.com/1.0/?symbols=MSFT')
-         print(price)
+         send_request = requests.get('https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=MSFT&apikey=1HTVZL0H0N34WT84')
+         requests_json = send_request.json()
+         current_price = float((requests_json['Global Quote']['05. price']))
+         if current_price == 108.2100:
+         	Jadi.send_sms(self)
 
 
 def main():
