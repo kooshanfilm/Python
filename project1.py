@@ -14,7 +14,7 @@ class Practicing:
         for i in range(2,number):
             #print (i, number)
             if (i % 5) == 0 or (i % 3 ) == 0:
-                print(i,end=",")
+                #print(i,end=",")
                 sum_of_mult = i + sum_of_mult
         print("-----")
         print("Sum of total number",sum_of_mult)
