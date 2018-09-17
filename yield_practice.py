@@ -1,6 +1,3 @@
-
-
-
 def compare(n):
     if n > 10 :
         print (n," n is greater than 10")

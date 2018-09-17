@@ -1,5 +1,3 @@
-
-
 myfile = open ('python.txt')
 
 for line in myfile.readlines():

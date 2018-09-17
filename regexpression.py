@@ -1,7 +1,4 @@
 
-
-import re
-
 def main():
 
  fh = open('sclices.py')
@@ -10,10 +7,6 @@ def main():
  if match:
      print(match)
      print(match.group())
-
-
-
-
 
 
 if __name__ == '__main__': main()

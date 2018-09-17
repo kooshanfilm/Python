@@ -10,7 +10,6 @@
 # , find the sum of the even-valued terms.
 
 
-
 class Practicing:
 
     def fib(self):
@@ -24,12 +23,6 @@ class Practicing:
             first = second
             second = temp
             count+=1
-
-
-
-
-
-
 
 def main():
     jadi = Practicing()

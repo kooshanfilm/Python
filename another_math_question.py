@@ -1,7 +1,3 @@
-
-
-
-
 class Reverse:
 
     def dict_pract(self):
@@ -20,13 +16,9 @@ class Reverse:
         for k,v in book.items():
             print(k,v)
 
-
-
 def main():
     call = Reverse()
     call.dict_pract()
-
-
 
 if __name__ == '__main__': main()
 

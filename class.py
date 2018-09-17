@@ -1,6 +1,3 @@
-
-
-
 class Nedah:
 
     def __init__(self,kind = "girl"):

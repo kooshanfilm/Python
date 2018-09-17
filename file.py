@@ -1,6 +1,3 @@
-
-
-
 def main():
     buffersize = 5000
     infile = open('newfile.txt','r')

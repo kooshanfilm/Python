@@ -1,6 +1,3 @@
-
-
-
 def main():
     fin = open('generatior.py','r',encoding='utf_8')
     fout = open('newfile.txt','w')

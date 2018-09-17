@@ -1,7 +1,5 @@
 from datetime import date
 
-
-
 import datetime
 
 def main():

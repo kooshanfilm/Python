@@ -1,7 +1,3 @@
-
-
-
-
 def main():
     func(3,4,5,6,67,one = 1,two = 2,three =3)
 

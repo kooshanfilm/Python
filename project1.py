@@ -19,8 +19,6 @@ class Practicing:
         print("-----")
         print("Sum of total number",sum_of_mult)
 
-
-
 def main():
     jadi = Practicing()
     jadi.multipler(1000)

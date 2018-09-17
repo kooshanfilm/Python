@@ -20,9 +20,6 @@ class Jadi:
         response = requests.request("POST", url, headers=headers, params=querystring)
         print(response.text)
 
-
-
-
     def stock_price(self,stock_symbol):
 
          send_request = requests.get('https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol={}&apikey=1HTVZL0H0N34WT84'.format(stock_symbol))

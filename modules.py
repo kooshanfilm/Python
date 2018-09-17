@@ -3,7 +3,6 @@ import os
 import datetime
 
 
-
 def main():
     print('python version {}.{}.{}'.format(*sys.version_info))
     print(sys.platform)

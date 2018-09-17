@@ -12,6 +12,4 @@ def main():
         if c == 's':
             print('index {} is an s'.format(i))
 
-
-
 if __name__ == '__main__': main()

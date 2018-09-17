@@ -1,6 +1,4 @@
 class Duck:
-
-
     def __init__(self):
         print('constractor')
 

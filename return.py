@@ -1,7 +1,4 @@
 
-
-
-
 def main():
 
     print("this is function")
@@ -14,8 +11,5 @@ def inclusive_range(start,stop,step):
     while i <= stop:
         yield i
         i += step
-
-
-
 
 if __name__ == '__main__': main()

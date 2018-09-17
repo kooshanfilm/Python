@@ -1,5 +1,3 @@
-
-
 # here we want to have a list or array
 # and then reverse our arra
 
@@ -23,9 +21,6 @@ class Reverse:
         while(i < arr_len):
             print(my_array[arr_len - 1])
             arr_len -=1
-
-
-
 
 def main():
     call = Reverse()
