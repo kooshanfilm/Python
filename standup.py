@@ -1,5 +1,6 @@
 import datetime
 
+
 class Stand_up:
 
 
@@ -58,10 +59,23 @@ class Stand_up:
         print("-------------------------------------")
 
 
+    def post_into_slac(self):
+
+
+        slack_token = os.environ["xoxp-313550114231-313550114855-436592439875-68f32c3d8a26d7c47ae255408661543d"]
+        sc = SlackClient(slack_token)
+
+        sc.api_call(
+            "chat.postMessage",
+            channel="C9TRBLB3K",
+            text="Hello from Python! :tada:"
+        )
+
 def main():
 
     call = Stand_up()
     call.my_status()
+    #call.post_into_slac()
 
 
 

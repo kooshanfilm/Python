@@ -2,10 +2,7 @@
 
 class Jadi:
 
-    # def find_random(self):
-    #
-    #     for i in range(1,10):
-    #         print(random.randint(4,10))
+
     def print_me(self):
         name= 'koushan'
 
