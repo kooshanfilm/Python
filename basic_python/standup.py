@@ -2,8 +2,6 @@ import datetime
 
 
 class Stand_up:
-
-
     def get_status_yesterday(self):
 
         menu_item = 0

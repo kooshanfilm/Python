@@ -2,16 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ad2953-4bf7-4eaa-8f8e-ff33bff5c831" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/few_practice_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_unit_test_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_test_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/Fib_FQA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/assertion_practice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libererys.py" beforeDir="false" afterPath="$PROJECT_DIR$/libererys.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/standup.py" beforeDir="false" afterPath="$PROJECT_DIR$/standup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fqa_practice1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/another_math_question.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytearrays.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculate_days.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditions2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/count.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/disconary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exception.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/factorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/few_practice_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fib_reverse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forloop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fucntion_part2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/function2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generatior.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/good_class_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheretance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lambda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libererys.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/math.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/more_db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutable&amp;.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/polimorphism.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regexpression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/return.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reveres_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/revers_array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/safe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sclices.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleloop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/standup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/switch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/test_unit_test_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/unit_test_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yield_practice.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,23 +70,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test_unit_test_1.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_unit_test_1.py">
+      <file leaf-file-name="assertion_practice.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic_python/assertion_practice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-              <folding>
-                <element signature="e#1#16#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="54">
+              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="unit_test_1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unit_test_1.py">
+      <file leaf-file-name="Fib_FQA.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basic_python/Fib_FQA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="200">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -65,9 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mutable&amp;.py" />
-        <option value="$PROJECT_DIR$/switch.py" />
-        <option value="$PROJECT_DIR$/count.py" />
         <option value="$PROJECT_DIR$/repeated.py" />
         <option value="$PROJECT_DIR$/sclices.py" />
         <option value="$PROJECT_DIR$/regexpression.py" />
@@ -116,11 +158,13 @@
         <option value="$PROJECT_DIR$/fib_reverse.py" />
         <option value="$PROJECT_DIR$/unit_test_1.py" />
         <option value="$PROJECT_DIR$/test_unit_test_1.py" />
+        <option value="$PROJECT_DIR$/basic_python/another_math_question.py" />
+        <option value="$PROJECT_DIR$/basic_python/assertion_practice.py" />
+        <option value="$PROJECT_DIR$/basic_python/Fib_FQA.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="720" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="720" />
     <option name="height" value="877" />
@@ -146,7 +190,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in test_unit_test_1.py">
+  <component name="RunManager" selected="Python.Fib_FQA">
+    <configuration name="Fib_FQA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Learn_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_python/Fib_FQA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="assertion_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Learn_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_python/assertion_practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="factorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,42 +263,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="oop2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Learn_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="practice3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Learn_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="py.test in test_unit_test_1.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,19 +278,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python.practice3" />
-      <item itemvalue="Python.oop2" />
       <item itemvalue="Python.fib_reverse" />
       <item itemvalue="Python.factorial" />
       <item itemvalue="Python tests.py.test in test_unit_test_1.py" />
+      <item itemvalue="Python.assertion_practice" />
+      <item itemvalue="Python.Fib_FQA" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Fib_FQA" />
+        <item itemvalue="Python.assertion_practice" />
         <item itemvalue="Python tests.py.test in test_unit_test_1.py" />
         <item itemvalue="Python.factorial" />
         <item itemvalue="Python.fib_reverse" />
-        <item itemvalue="Python.oop2" />
-        <item itemvalue="Python.practice3" />
       </list>
     </recent_temporary>
   </component>
@@ -264,12 +308,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_yield_practice_py - 2018.07.22 at 19h 47m 22s.xml">
-      <configuration name="py.test in yield_practice.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_yield_practice_py - 2018.07.22 at 19h 47m 52s.xml">
-      <configuration name="py.test in yield_practice.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_in_yield_practice_py - 2018.07.22 at 19h 48m 41s.xml">
       <configuration name="py.test in yield_practice.py" configurationId="tests" />
     </history-entry>
@@ -294,17 +332,22 @@
     <history-entry file="py_test_in_test_unit_test_1_py - 2018.09.23 at 10h 55m 34s.xml">
       <configuration name="py.test in test_unit_test_1.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="py_test_in_test_unit_test_1_py - 2018.09.23 at 10h 58m 30s.xml">
+      <configuration name="py.test in test_unit_test_1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_unit_test_1_py - 2018.09.23 at 10h 59m 16s.xml">
+      <configuration name="py.test in test_unit_test_1.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="720" y="23" width="720" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="1" weight="0.20694445" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Python Console" order="0" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.2988792" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.2988792" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -319,22 +362,22 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.2988792" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info content_ui="combo" id="Project" order="1" weight="0.20694445" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Python Console" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.2988792" />
+      <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3985056" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Python Console" order="0" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -346,27 +389,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/return.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inheretance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/polimorphism.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/generatior.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -567,9 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -603,9 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#1#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -625,18 +641,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unit_test_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_unit_test_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#1#16#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_python/another_math_question.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_python/assertion_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_python/Fib_FQA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
