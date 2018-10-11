@@ -12,29 +12,18 @@
 
 class Reverse:
 
-    def pass_is_ok(self,number):
+    def pass_is_ok(self):
 
-
-    def safe(self):
-        this_pass = str(pass)
-        
-        pass = {}
-        pass['one'] =
-        pass ['two']=
-        pass['thre']=
-        pass['four']=
-        pass['five']=
-
-        for i in range(100000):
-            #print(i)
-            if pass_is_ok(number):
-                print()
-
-
+        count = 0
+        if count == 0:
+            print ("x")
+            print("ss")
+        else:
+            print("y")
 
 def main():
     call = Reverse()
-    call.safe()
+    call.pass_is_ok()
 
 
 

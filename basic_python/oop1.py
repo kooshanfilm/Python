@@ -24,11 +24,19 @@ class Employee:
 	@classmethod
 	def from_string(cls,emp_str):
 		firs,last,pay = emp_str_1.split('-')
+		cls(first,last,pay)
+
+	@staticmethod
+	def is_workday(day):
+		pass
 
 #print(Employee.num_of_emps)
 emp_1 = Employee('james','wood',1000)
 #print(emp_1.first,Employee.num_of_emps)
 emp_2 = Employee('test','user',5000)
+
+new_emp_1 =
+
 
 # print(emp_2.first,emp_2.last)
 # print(emp_1.full_name())
