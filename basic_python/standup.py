@@ -23,14 +23,13 @@ class Stand_up:
         while True:
             line = input("*what did yo do today:\n")
             if line:
-                lines.append(str(count)+"."+line)
-                count+=1
+                lines.append(str(count) + "." + line)
+                count += 1
             else:
                 break
         today = '\n'.join(lines)
 
         return today
-
 
     def any_blocker(self):
 
@@ -63,5 +62,6 @@ class Stand_up:
 def main():
     call = Stand_up()
     call.my_status()
+
 
 if __name__ == '__main__': main()
