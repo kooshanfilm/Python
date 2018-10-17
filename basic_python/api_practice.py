@@ -29,6 +29,10 @@ class Jadi:
          #print (current_price)
          return current_price
 
+
+    def statu(self):
+        status = requests.get("")
+
     def alert(self,stock):
 
         current_price = Jadi.stock_price(self,stock)
