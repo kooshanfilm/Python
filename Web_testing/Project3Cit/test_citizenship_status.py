@@ -23,6 +23,7 @@ class Check_status:
         browser.visit(url)
         browser.click_link_by_id('agree')
         browser.find_by_name('_target1').click()
+
         server_list = browser.find_by_id('idTypeLabel')
         server_list.find_by_xpath("//*[@id='idTypeLabel']/option[2]").click()
         browser.find_by_xpath("//*[@id='idNumberLabel']").fill('54667184')
