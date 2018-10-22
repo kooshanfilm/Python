@@ -2,9 +2,102 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ad2953-4bf7-4eaa-8f8e-ff33bff5c831" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Web_testing/Project3Cit/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_testing/Project3Cit/locators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_testing/Project3Cit/pages/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_testing/Project3Cit/pages/login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_testing/Project3Cit/test_citizenship_status.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_testing/Project3Cit/test_citizenship_status.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/OOP/characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/OOP/numstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/csv/artifacts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_python/csv/writefile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/Project3/TestCheckout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/Project3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/Project3/checkout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/project_5/Linereader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/project_5/TestDoubles_Tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_testing/Project3Cit/pages/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_testing/Project3Cit/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_testing/Project3Cit/locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_testing/Project3Cit/pages/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/API/project1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_testing/Project3Cit/pages/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_testing/Project3Cit/pages/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_testing/Project3Cit/pages/opt_browser.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_testing/Project3Cit/pages/opt_browser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_testing/Project3Cit/test_cic_status.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_testing/Project3Cit/test_cic_status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_testing/Project3Cit/test_citizenship_status.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_testing/Project3Cit/test_citizenship_status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_testing/project0/Get_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_testing/project0/Get_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_testing/project0/error_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_testing/project0/error_codes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_testing/project0/post_req.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_testing/project0/post_req.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_testing/project2/locators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_testing/project2/pages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_testing/project2/pages/browser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_testing/project2/pages/login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_testing/project2/test_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/Fib_FQA.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/Fib_FQA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/Fqa_practice1.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/Fqa_practice1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/another_math_question.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/another_math_question.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/api_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/api_practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/assertion_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/assertion_practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/bytearrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/bytearrays.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/calculate_days.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/calculate_days.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/class.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/class2.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/class2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/conditions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/conditions2.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/conditions2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/count.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/decoratoors.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/decoratoors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/decorators.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/decorators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/disconary.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/disconary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/exception.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/few_practice_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/few_practice_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/fib_reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/fib_reverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/file.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/forloop.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/forloop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/fucntion_part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/fucntion_part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/function2.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/function2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/generatior.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/generatior.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/generators.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/generators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/generators3.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/generators3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/good_class_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/good_class_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/inheretance.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/inheretance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/lambda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/libererys.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/libererys.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/math.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/more_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/more_db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/mutable&amp;.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/mutable&amp;.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/object_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/object_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/oo.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/oo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/oop-warriors.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/oop-warriors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/oop1.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/oop1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/oop2.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/oop2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/oop3.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/oop3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/polimorphism.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/polimorphism.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/recursive.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/recursive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/recursive_fucktions_dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/recursive_fucktions_dictionaries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/regexpression.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/regexpression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/return.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/return.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/reveres_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/reveres_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/revers_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/revers_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/safe.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/safe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/sclices.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/sclices.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/simpleloop.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/simpleloop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/standup.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/standup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/switch.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/switch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/work_with_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/work_with_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_python/yield_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/yield_practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/dice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/dice_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/employee.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/test.employee.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/unit_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/unit_1/.idea/unit_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/unit_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/unit_1/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,112 +109,85 @@
     <session id="-438687389">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.5" value="6" />
+          <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="9" />
-          <entry key="py" value="57" />
+          <entry key="py" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="9" />
-          <entry key="Python" value="57" />
+          <entry key="Python" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="5" />
+          <entry key="dummy" value="34" />
           <entry key="html" value="1008" />
-          <entry key="py" value="6211" />
+          <entry key="py" value="10290" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="1008" />
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="6211" />
+          <entry key="PLAIN_TEXT" value="34" />
+          <entry key="Python" value="10290" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Learn_python" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web_testing/project2/pages/browser.py">
+        <entry file="file://$PROJECT_DIR$/web_testing/Project3Cit/test_citizenship_status.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="26" column="19" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web_testing/Project3Cit/test_cic_status.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web_testing/Project3Cit/pages/opt_browser.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web_testing/Project3Cit/test_cic_status.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#33#0" expanded="true" />
-              </folding>
+              <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Web_testing/Project3Cit/locators.py">
+        <entry file="file://$PROJECT_DIR$/web_testing/Project3Cit/pages/login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <marker date="1539745930312" expanded="true" signature="34:35" ph="..." />
-                <marker date="1539745930312" expanded="true" signature="34:40" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web_testing/Project3Cit/pages/login.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+            <state relative-caret-position="281">
+              <caret line="17" column="103" selection-start-line="17" selection-start-column="103" selection-end-line="17" selection-end-column="103" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
-                <marker date="1539745869531" expanded="true" signature="132:138" ph="..." />
+                <marker date="1540176502811" expanded="true" signature="470:475" ph="..." />
+                <marker date="1540176502811" expanded="true" signature="724:1382" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web_testing/Project3Cit/test_citizenship_status.py">
+        <entry file="file://$PROJECT_DIR$/web_testing/Project3Cit/locators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="67" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="132">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -142,6 +208,8 @@
       <find>random</find>
       <find>save</find>
       <find>driver</find>
+      <find>fieldnames</find>
+      <find>choose_Identification_Type</find>
     </findStrings>
     <replaceStrings>
       <replace>self.browser</replace>
@@ -153,22 +221,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Fqa_practice1.py" />
-        <option value="$PROJECT_DIR$/standup.py" />
-        <option value="$PROJECT_DIR$/few_practice_code.py" />
-        <option value="$PROJECT_DIR$/lambda.py" />
-        <option value="$PROJECT_DIR$/recursive.py" />
-        <option value="$PROJECT_DIR$/practice3.py" />
-        <option value="$PROJECT_DIR$/practice4.py" />
-        <option value="$PROJECT_DIR$/oop2.py" />
-        <option value="$USER_HOME$/k.py" />
-        <option value="$USER_HOME$/c.py" />
-        <option value="$PROJECT_DIR$/factorial.py" />
-        <option value="$PROJECT_DIR$/fib_reverse.py" />
-        <option value="$PROJECT_DIR$/unit_test_1.py" />
-        <option value="$PROJECT_DIR$/test_unit_test_1.py" />
-        <option value="$PROJECT_DIR$/basic_python/another_math_question.py" />
-        <option value="$PROJECT_DIR$/basic_python/assertion_practice.py" />
         <option value="$PROJECT_DIR$/basic_python/Fib_FQA.py" />
         <option value="$PROJECT_DIR$/basic_python/oop3.py" />
         <option value="$PROJECT_DIR$/basic_python/oop-warriors.py" />
@@ -204,13 +256,28 @@
         <option value="$PROJECT_DIR$/Web_testing/Project3Cit/pages/login.py" />
         <option value="$PROJECT_DIR$/Web_testing/Project3Cit/test_citizenship_status.py" />
         <option value="$PROJECT_DIR$/Web_testing/Project3Cit/locators.py" />
+        <option value="$PROJECT_DIR$/unittest/Project3/pytest_test.py" />
+        <option value="$PROJECT_DIR$/unittest/Project3/__init__.py" />
+        <option value="$PROJECT_DIR$/unittest/Project3/TestCheckout.py" />
+        <option value="$PROJECT_DIR$/unittest/Project3/checkout.py" />
+        <option value="$PROJECT_DIR$/unittest/project_5/Linereader.py" />
+        <option value="$PROJECT_DIR$/unittest/project_5/testdoubles_tests.py" />
+        <option value="$PROJECT_DIR$/unittest/project_5/TestDoubles_Tests.py" />
+        <option value="$PROJECT_DIR$/basic_python/OOP/attributes.py" />
+        <option value="$PROJECT_DIR$/basic_python/OOP/characters.py" />
+        <option value="$PROJECT_DIR$/basic_python/OOP/numstring.py" />
+        <option value="$PROJECT_DIR$/basic_python/csv/artifacts.py" />
+        <option value="$PROJECT_DIR$/basic_python/csv/writefile.py" />
+        <option value="$PROJECT_DIR$/API/project1.py" />
+        <option value="$PROJECT_DIR$/web_testing/Project3Cit/locators.py" />
+        <option value="$PROJECT_DIR$/web_testing/Project3Cit/test_cic_status.py" />
+        <option value="$PROJECT_DIR$/web_testing/Project3Cit/pages/login.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="720" />
-    <option name="height" value="877" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -218,7 +285,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,31 +295,18 @@
             <path>
               <item name="Learn_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learn_python" type="462c0819:PsiDirectoryNode" />
-              <item name="Web_testing" type="462c0819:PsiDirectoryNode" />
+              <item name="web_testing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Learn_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learn_python" type="462c0819:PsiDirectoryNode" />
-              <item name="Web_testing" type="462c0819:PsiDirectoryNode" />
-              <item name="project2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn_python" type="462c0819:PsiDirectoryNode" />
-              <item name="Web_testing" type="462c0819:PsiDirectoryNode" />
-              <item name="project2" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn_python" type="462c0819:PsiDirectoryNode" />
-              <item name="Web_testing" type="462c0819:PsiDirectoryNode" />
+              <item name="web_testing" type="462c0819:PsiDirectoryNode" />
               <item name="Project3Cit" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Learn_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learn_python" type="462c0819:PsiDirectoryNode" />
-              <item name="Web_testing" type="462c0819:PsiDirectoryNode" />
+              <item name="web_testing" type="462c0819:PsiDirectoryNode" />
               <item name="Project3Cit" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -261,6 +314,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -270,10 +324,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/basic_python/csv" />
+      <recent name="$PROJECT_DIR$/basic_python/basics" />
       <recent name="$PROJECT_DIR$/Web_testing/Project3Cit" />
       <recent name="$PROJECT_DIR$/Web_testing/project0" />
       <recent name="$PROJECT_DIR$/Web_testing/project2" />
-      <recent name="$PROJECT_DIR$/flask/app3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -288,8 +343,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Fqa_practice1">
-    <configuration name="Fib_FQA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.project1">
+    <configuration name="artifacts" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,11 +352,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_python/csv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_python/Fib_FQA.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_python/csv/artifacts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,7 +365,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Fqa_practice1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -318,11 +373,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_python/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_python/Fqa_practice1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_python/OOP/characters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,7 +386,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="api_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="numstring" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,11 +394,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_python/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_python/api_practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_python/OOP/numstring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -352,7 +407,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="count" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="project1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -360,11 +415,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_python/count.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API/project1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -373,7 +428,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="oop3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="writefile" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -381,11 +436,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_python/csv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_python/oop3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_python/csv/writefile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -395,19 +450,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Fib_FQA" />
-      <item itemvalue="Python.oop3" />
-      <item itemvalue="Python.api_practice" />
-      <item itemvalue="Python.count" />
-      <item itemvalue="Python.Fqa_practice1" />
+      <item itemvalue="Python.characters" />
+      <item itemvalue="Python.numstring" />
+      <item itemvalue="Python.artifacts" />
+      <item itemvalue="Python.writefile" />
+      <item itemvalue="Python.project1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Fqa_practice1" />
-        <item itemvalue="Python.count" />
-        <item itemvalue="Python.api_practice" />
-        <item itemvalue="Python.oop3" />
-        <item itemvalue="Python.Fib_FQA" />
+        <item itemvalue="Python.project1" />
+        <item itemvalue="Python.writefile" />
+        <item itemvalue="Python.artifacts" />
+        <item itemvalue="Python.numstring" />
+        <item itemvalue="Python.characters" />
       </list>
     </recent_temporary>
   </component>
@@ -425,51 +480,51 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_yield_practice_py - 2018.07.22 at 19h 48m 41s.xml">
-      <configuration name="py.test in yield_practice.py" configurationId="tests" />
+    <history-entry file="pytest_in_TestCheckout_py - 2018.10.20 at 15h 53m 34s.xml">
+      <configuration name="pytest in TestCheckout.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_yield_practice_py - 2018.07.22 at 19h 48m 57s.xml">
-      <configuration name="py.test in yield_practice.py" configurationId="tests" />
+    <history-entry file="pytest_in_testdoubles_tests_py - 2018.10.20 at 15h 53m 44s.xml">
+      <configuration name="pytest in testdoubles_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_yield_practice_py - 2018.07.22 at 19h 49m 48s.xml">
-      <configuration name="py.test in yield_practice.py" configurationId="tests" />
+    <history-entry file="pytest_in_testdoubles_tests_py - 2018.10.20 at 15h 54m 22s.xml">
+      <configuration name="pytest in testdoubles_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_functions_py - 2018.08.14 at 10h 33m 57s.xml">
-      <configuration name="py.test in functions.py" configurationId="tests" />
+    <history-entry file="pytest_in_testdoubles_tests_py - 2018.10.20 at 15h 54m 47s.xml">
+      <configuration name="pytest in testdoubles_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_functions_py - 2018.08.14 at 10h 34m 17s.xml">
-      <configuration name="py.test in functions.py" configurationId="tests" />
+    <history-entry file="pytest_in_testdoubles_tests_py - 2018.10.20 at 15h 57m 17s.xml">
+      <configuration name="pytest in testdoubles_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_functions_py - 2018.08.14 at 10h 34m 36s.xml">
-      <configuration name="py.test in functions.py" configurationId="tests" />
+    <history-entry file="pytest_in_testdoubles_tests_py - 2018.10.20 at 15h 58m 17s.xml">
+      <configuration name="pytest in testdoubles_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_functions_py - 2018.08.14 at 10h 34m 53s.xml">
-      <configuration name="py.test in functions.py" configurationId="tests" />
+    <history-entry file="pytest_in_testdoubles_tests_py - 2018.10.20 at 15h 58m 33s.xml">
+      <configuration name="pytest in testdoubles_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_unit_test_1_py - 2018.09.23 at 10h 55m 34s.xml">
-      <configuration name="py.test in test_unit_test_1.py" configurationId="tests" />
+    <history-entry file="pytest_in_testdoubles_tests_py - 2018.10.20 at 16h 00m 49s.xml">
+      <configuration name="pytest in testdoubles_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_unit_test_1_py - 2018.09.23 at 10h 58m 30s.xml">
-      <configuration name="py.test in test_unit_test_1.py" configurationId="tests" />
+    <history-entry file="pytest_in_TestDoubles_Tests_py - 2018.10.20 at 16h 01m 47s.xml">
+      <configuration name="pytest in TestDoubles_Tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_unit_test_1_py - 2018.09.23 at 10h 59m 16s.xml">
-      <configuration name="py.test in test_unit_test_1.py" configurationId="tests" />
+    <history-entry file="pytest_in_TestDoubles_Tests_py - 2018.10.20 at 16h 02m 36s.xml">
+      <configuration name="pytest in TestDoubles_Tests.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2635659" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="0" sideWeight="0.5017794" side_tool="true" weight="0.30329043" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49822065" visible="true" weight="0.13883016" />
+      <window_info id="Structure" order="2" sideWeight="0.5017794" side_tool="true" weight="0.21316166" />
       <window_info anchor="bottom" id="Python Console" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3299363" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.18216561" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.26746988" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3985056" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -483,59 +538,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/oop2.py" />
-    <entry file="file://$PROJECT_DIR$/function2.py" />
-    <entry file="file://$PROJECT_DIR$/recursive.py" />
-    <entry file="file://$PROJECT_DIR$/practice3.py" />
-    <entry file="file://$PROJECT_DIR$/factorial.py" />
-    <entry file="file://$PROJECT_DIR$/fib_reverse.py" />
-    <entry file="file://$PROJECT_DIR$/unit_test_1.py" />
-    <entry file="file://$PROJECT_DIR$/test_unit_test_1.py" />
-    <entry file="file://$PROJECT_DIR$/basic_python/another_math_question.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_python/assertion_practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_python/Fib_FQA.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_python/oop3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_python/oop-warriors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flask/app.py" />
-    <entry file="file://$PROJECT_DIR$/basic_python/standup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_flask/app.py" />
-    <entry file="file://$PROJECT_DIR$/basic_python/Fqa_practice1.py">
+    <entry file="file://$PROJECT_DIR$/basic_python/basics/Fqa_practice1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
@@ -584,9 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -594,11 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1539475834971" expanded="true" signature="199:218" ph="..." />
-            <marker date="1539475834971" expanded="true" signature="279:284" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -606,155 +601,161 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="12" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="54" />
-          <folding>
-            <marker date="1539475302984" expanded="true" signature="171:209" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic_python/api_practice.py">
+    <entry file="file://$PROJECT_DIR$/basic_python/basics/api_practice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1539572905268" expanded="true" signature="1164:1204" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_testing/project0/error_codes.py">
+    <entry file="file://$PROJECT_DIR$/web_testing/project0/error_codes.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_testing/project0/Get_request.py">
+    <entry file="file://$PROJECT_DIR$/web_testing/project0/Get_request.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Web_visa_automation/check_visa_status.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1539572574831" expanded="true" signature="233:1161" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_testing/project1/wiki.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web_testing/project1/locators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web_testing/project1/test_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web_testing/project2/locatiors.py">
+    <entry file="file://$PROJECT_DIR$/Web_testing/project1/wiki.py" />
+    <entry file="file://$PROJECT_DIR$/Web_testing/project1/locators.py" />
+    <entry file="file://$PROJECT_DIR$/Web_testing/project1/test_login.py" />
+    <entry file="file://$PROJECT_DIR$/Web_testing/project2/locatiors.py" />
+    <entry file="file://$PROJECT_DIR$/Web_testing/project2/locators.py" />
+    <entry file="file://$PROJECT_DIR$/Web_testing/project2/test_login.py" />
+    <entry file="file://$PROJECT_DIR$/Web_testing/project2/pages/login.py" />
+    <entry file="file://$PROJECT_DIR$/Web_testing/project2/pages/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/web_testing/Project3Cit/pages/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_testing/project2/locators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Web_testing/project2/pages/browser.py" />
+    <entry file="file://$PROJECT_DIR$/unittest/Project3/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_testing/project2/test_login.py">
+    <entry file="file://$USER_HOME$/Downloads/Lynda Unit Testing and Test Driven Development in Python_git.ir/Exercise Files/Ex_Files_Unit_Testing_Dev_Python/Exercise Files/code_samples/checkout_kata/Checkout.py" />
+    <entry file="file://$PROJECT_DIR$/unittest/Project3/TestCheckout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" lean-forward="true" selection-end-line="30" />
+        <state relative-caret-position="330">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1540075071092" expanded="true" signature="80:114" ph="..." />
+            <marker date="1540075071092" expanded="true" signature="444:449" ph="..." />
+            <marker date="1540075071092" expanded="true" signature="581:586" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_testing/project2/pages/login.py">
+    <entry file="file://$USER_HOME$/Downloads/Lynda Unit Testing and Test Driven Development in Python_git.ir/Exercise Files/Ex_Files_Unit_Testing_Dev_Python/Exercise Files/code_samples/checkout_kata/TestCheckout.py" />
+    <entry file="file://$PROJECT_DIR$/unittest/Project3/checkout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_testing/project2/pages/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$USER_HOME$/Downloads/Lynda Unit Testing and Test Driven Development in Python_git.ir/Exercise Files/Ex_Files_Unit_Testing_Dev_Python/Exercise Files/code_samples/unittest.mock_examples/TestDoubles_Tests.py" />
+    <entry file="file://$USER_HOME$/Downloads/Lynda Unit Testing and Test Driven Development in Python_git.ir/Exercise Files/Ex_Files_Unit_Testing_Dev_Python/Exercise Files/code_samples/unittest.mock_examples/LineReader.py" />
+    <entry file="file://$PROJECT_DIR$/unittest/project_5/TestDoubles_Tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_testing/Project3Cit/pages/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/unittest/project_5/Linereader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_testing/project2/pages/browser.py">
+    <entry file="file://$PROJECT_DIR$/basic_python/OOP/attributes.py" />
+    <entry file="file://$PROJECT_DIR$/basic_python/OOP/numstring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_python/OOP/characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1830">
+          <caret line="131" column="36" selection-start-line="131" selection-start-column="26" selection-end-line="131" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_python/csv/writefile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_python/csv/artifacts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="9" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/project1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="54" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_testing/Project3Cit/pages/opt_browser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_testing/Project3Cit/test_cic_status.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="1" />
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_testing/Project3Cit/pages/opt_browser.py">
+    <entry file="file://$PROJECT_DIR$/web_testing/Project3Cit/test_citizenship_status.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="299">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_testing/Project3Cit/test_cic_status.py">
+    <entry file="file://$PROJECT_DIR$/web_testing/Project3Cit/locators.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="132">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_testing/Project3Cit/pages/login.py">
+    <entry file="file://$PROJECT_DIR$/web_testing/Project3Cit/pages/login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+        <state relative-caret-position="281">
+          <caret line="17" column="103" selection-start-line="17" selection-start-column="103" selection-end-line="17" selection-end-column="103" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
-            <marker date="1539745869531" expanded="true" signature="132:138" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web_testing/Project3Cit/test_citizenship_status.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="67" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web_testing/Project3Cit/locators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <marker date="1539745930312" expanded="true" signature="34:35" ph="..." />
-            <marker date="1539745930312" expanded="true" signature="34:40" ph="..." />
+            <marker date="1540176502811" expanded="true" signature="470:475" ph="..." />
+            <marker date="1540176502811" expanded="true" signature="724:1382" ph="..." />
           </folding>
         </state>
       </provider>
