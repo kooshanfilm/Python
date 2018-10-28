@@ -1,0 +1,4 @@
+{
+  "test_login.py::LoginTestCase::testLoginFail": true, 
+  "test_login.py::LoginTestCase::testUserLogin": true
+}

@@ -31,7 +31,7 @@ class Jadi:
 
 
     def statu(self):
-        status = requests.get("")
+        status = requests.get("w")
 
     def alert(self,stock):
 

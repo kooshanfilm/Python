@@ -26,6 +26,9 @@ class inclusive_range:
             i += self.step
 
 
+    def 
+
+
 def main():
     o = inclusive_range(5,21)
     for i in o:

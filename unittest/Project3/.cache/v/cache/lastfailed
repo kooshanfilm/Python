@@ -1,0 +1,4 @@
+{
+  "TestCheckout.py::test_CanCalcutatorTotal": true,
+  "TestCheckout.py::test_Getcorrecttottalmultipleitems": true
+}
