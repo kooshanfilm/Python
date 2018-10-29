@@ -2,12 +2,12 @@ from quickstart import *
 from flask import Flask, jsonify, Response
 from flask import request
 import json
-
+from termcolor import colored
+import time
+import os
 
 
 class Market(Read_sheet):
-
-    app = Flask(__name__)
 
     def read_excel_sheet(self):
         self.value = Read_sheet.reed_google(self)
@@ -15,33 +15,51 @@ class Market(Read_sheet):
 
     def rrsp_stat(self):
         print("")
-        print("***RRSP***")
+        print("***R***")
         print("")
         result = self.value
-        for i in range(25,30):
+        for i in range(25, 30):
             sym = result[i][0]
-            price = result[i][7]
-            print(sym.upper() +": "+ price)
+            sym = sym.upper()
+            price = result[i][7].replace(",", "")
+            price = float(price)
+            if price > 0:
+                print(colored("{} is up now by {}".format(sym, price), 'green'))
+            else:
+                print(colored("{} {}".format(sym, price), 'red'))
 
-
+        return result
 
     def tfsa_stat(self):
+        gains = []
         print("")
-        print("***TFSA***")
+        print("***T***")
         print("")
         result = self.value
-        for i in range(18,22):
+        for i in range(18, 22):
             sym = result[i][9]
-            price = result[i][16]
-            print(sym.upper() + ": " + price)
+            sym = sym.upper()
+            price = result[i][16].replace(",", "")
+            price = float(price)
+            if price > 0:
+                print(colored("{} is up now by {}".format(sym, price), 'green'))
+            else:
+                print(colored("{}  {}".format(sym, price), 'red'))
 
-    app.run(port=5000)
+    def get_result(self):
+        while True:
+            Market.read_excel_sheet(self)
+            Market.rrsp_stat(self)
+            Market.tfsa_stat(self)
+            time.sleep(10)
+            bashCommand = "clear"
+            os.system(bashCommand)
+
 
 def main():
     call = Market()
     call.read_excel_sheet()
-    call.rrsp_stat()
-    call.tfsa_stat()
+    call.get_result()
 
 
 if __name__ == '__main__':
