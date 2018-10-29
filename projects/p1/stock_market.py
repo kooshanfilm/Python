@@ -6,7 +6,6 @@ from termcolor import colored
 import time
 import os
 
-
 class Market(Read_sheet):
 
     def read_excel_sheet(self):
@@ -27,7 +26,6 @@ class Market(Read_sheet):
                 print(colored("{} is up now by {}".format(sym, price), 'green'))
             else:
                 print(colored("{} {}".format(sym, price), 'red'))
-
         return result
 
     def tfsa_stat(self):
@@ -55,12 +53,10 @@ class Market(Read_sheet):
             bashCommand = "clear"
             os.system(bashCommand)
 
-
 def main():
     call = Market()
     call.read_excel_sheet()
     call.get_result()
-
-
+    
 if __name__ == '__main__':
     main()
