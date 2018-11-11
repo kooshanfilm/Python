@@ -6,57 +6,88 @@ from termcolor import colored
 import time
 import os
 
+
 class Market(Read_sheet):
 
+    def __init__(self):
+        self.market = Jadi()
+
     def read_excel_sheet(self):
+
         self.value = Read_sheet.reed_google(self)
         return self.value
 
-    def rrsp_stat(self):
+    def decoration(self, account):
+        self.account = account
         print("")
-        print("***R***")
+        print("***{}***".format(account))
         print("")
+
+    def rrsp_stat(self, sum=0):
+        self.sum = sum
+        Market.decoration(self, 'R')
         result = self.value
         for i in range(25, 30):
             sym = result[i][0]
             sym = sym.upper()
             price = result[i][7].replace(",", "")
             price = float(price)
+            self.sum = self.sum + price
             if price > 0:
+                print("------------------------------------")
                 print(colored("{} is up now by {}".format(sym, price), 'green'))
+                print("------------------------------------")
             else:
                 print(colored("{} {}".format(sym, price), 'red'))
-        return result
+        print('')
+        Market.total_price(self, self.sum)
 
     def tfsa_stat(self):
-        gains = []
-        print("")
-        print("***T***")
-        print("")
+        sum = 0
+        Market.decoration(self, 'T')
         result = self.value
         for i in range(18, 22):
             sym = result[i][9]
             sym = sym.upper()
             price = result[i][16].replace(",", "")
             price = float(price)
+            sum = sum + price
             if price > 0:
+                print("------------------------------------")
                 print(colored("{} is up now by {}".format(sym, price), 'green'))
+                print("------------------------------------")
             else:
                 print(colored("{}  {}".format(sym, price), 'red'))
 
+        print('')
+        Market.total_price(self,sum)
+        print('__________________________________')
+        Market.total_price(self,self.sum,sum)
+
+
+    def total_price(self,sum1,sum2=0):
+        total = sum1 + sum2
+        if total > 0 :
+            print(colored("Totla:{}".format(total), 'green'))
+        else:
+            print(colored("Totla:{}".format(total), 'red'))
+
+
     def get_result(self):
-        while True:
+
+        refresh = raw_input()
+        while (refresh == "y"):
             Market.read_excel_sheet(self)
             Market.rrsp_stat(self)
             Market.tfsa_stat(self)
             time.sleep(10)
             bashCommand = "clear"
             os.system(bashCommand)
+            refresh = raw_input()
 
 def main():
     call = Market()
-    call.read_excel_sheet()
     call.get_result()
-    
+
 if __name__ == '__main__':
     main()

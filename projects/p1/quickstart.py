@@ -2,7 +2,7 @@ from __future__ import print_function
 from googleapiclient.discovery import build
 from httplib2 import Http
 from oauth2client import file, client, tools
-
+from market_price import *
 
 
 class Read_sheet:
@@ -26,8 +26,8 @@ class Read_sheet:
         service = build('sheets', 'v4', http=creds.authorize(Http()))
 
         # Call the Sheets API
-        SPREADSHEET_ID = '1E0Onf9CNA72ZSuCcBfU_5hCTRze1r0AEUCuSwJlK4dw'
-        RANGE_NAME = 'Sheet1!A1:Q'
+        SPREADSHEET_ID = '1CyKmY9WTw_WbrnzjJZl2p7OWqBQZgtXPjvU4AVKp70A'
+        RANGE_NAME = 'RR!A1:Q'
         result = service.spreadsheets().values().get(spreadsheetId=SPREADSHEET_ID,
                                                     range=RANGE_NAME).execute()
 

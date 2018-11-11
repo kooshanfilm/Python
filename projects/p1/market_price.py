@@ -26,8 +26,8 @@ class Jadi:
          requests_json = send_request.json()
          #print requests_json
          current_price = float((requests_json['Global Quote']['05. price']))
-         #print (current_price)
-         return current_price
+         print (current_price)
+
 
 
     def statu(self):
@@ -47,7 +47,7 @@ class Jadi:
 def main():
     call = Jadi()
     #call.btc_price()
-    call.stock_price('fb')
+    print (call.stock_price('fb'))
     #call.alert('fb')
 
 
