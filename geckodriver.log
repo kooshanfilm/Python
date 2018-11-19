@@ -1,0 +1,35 @@
+1541977065688	geckodriver	INFO	geckodriver 0.20.0
+1541977065703	geckodriver	INFO	Listening on 127.0.0.1:54146
+1541977066722	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1n/wsfmsx3j0_50s0xd_9zvwk8c0000gq/T/rust_mozprofile.pKOBjsCm9uLa"
+2018-11-11 14:57:48.765 plugin-container[26998:6804787] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-11-11 14:57:49.212 plugin-container[26998:6804787] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1128e28b0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-11-11 14:57:49.216 plugin-container[26998:6804806] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-11-11 14:57:49.260 plugin-container[27000:6804863] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-11-11 14:57:49.392 plugin-container[27000:6804863] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10eee5be0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-11-11 14:57:49.395 plugin-container[27000:6804870] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1541977069577	Marionette	INFO	Listening on port 54152
+1541977069624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541977069660	Marionette	DEBUG	[4294967297] Frame script loaded
+1541977069661	Marionette	DEBUG	[4294967297] Frame script registered
+2018-11-11 14:57:49.986 plugin-container[27003:6805063] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-11-11 14:57:50.073 plugin-container[27003:6805063] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10b9e9430 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-11-11 14:57:50.075 plugin-container[27003:6805079] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1541977098038	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1541977098547	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1541977099166	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1541977100811	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1541977101183	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967309
+1541977101335	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967318
+1541977101335	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967320
+1541977101342	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967314
+1541977101390	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967316
+1541977101434	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.facebook.com/
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.facebook.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.facebook.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.facebook.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended

@@ -22,4 +22,3 @@ class OptBrowser(object):
     def visit(self):
         self.driver.get(self.base_url)
 
-

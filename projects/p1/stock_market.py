@@ -46,8 +46,9 @@ class Market(Read_sheet):
         sum = 0
         Market.decoration(self, 'T')
         result = self.value
-        for i in range(18, 22):
+        for i in range(18, 24):
             sym = result[i][9]
+            current_stock_price = result[i][15]
             sym = sym.upper()
             price = result[i][16].replace(",", "")
             price = float(price)
@@ -57,13 +58,14 @@ class Market(Read_sheet):
                 print(colored("{} is up now by {}".format(sym, price), 'green'))
                 print("------------------------------------")
             else:
-                print(colored("{}  {}".format(sym, price), 'red'))
+                # print(colored("{}---------{}----------{}".format(sym,current_stock_price, price), 'red'))
+                print(colored("{}    {}".format(sym, price), 'red'))
+
 
         print('')
         Market.total_price(self,sum)
         print('__________________________________')
         Market.total_price(self,self.sum,sum)
-
 
     def total_price(self,sum1,sum2=0):
         total = sum1 + sum2

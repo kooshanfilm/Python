@@ -1,22 +1,22 @@
 from pages.login import LoginPage
 from selenium import webdriver
 
-
 import unittest
+
 
 class LoginTestCase(unittest.TestCase):
 
     def testlogin(self):
-            try:
-                # loginpage is from login.py
-                call = LoginPage()
-                call.open_the_page()
-                call.create_page()
-                call.quit()
+        # loginpage is from login.py
+        call = LoginPage()
+        call.open_the_page()
 
-            except IOError:
-                print (IOError)
-                call.quit()
+
+    def testauth(self):
+        call = LoginPage()
+        call.open_the_page()
+        call.auth("test", "test")
+
 
 
 if __name__ == '__main__':
