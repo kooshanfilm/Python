@@ -2,30 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ad2953-4bf7-4eaa-8f8e-ff33bff5c831" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/basic_python/basics/lambda_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/P0-Automated softwere testing/practice_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/blog_and_test/blog/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/blog_and_test/blog/post.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/blog_and_test/blog/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/blog_and_test/blog/test/unit/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/blog_and_test/blog/test/unit/post_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest_1/Project3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest_1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest_1/projct4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest_1/projct4/game/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest_1/projct4/test/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_python/basics/decorator2.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_python/basics/decorator2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/OOP_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Eveyday_practice/OOP_practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/customer_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Eveyday_practice/customer_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Eveyday_practice/factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/koushan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Eveyday_practice/koushan.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/practice3.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Eveyday_practice/practice3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/prime_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Eveyday_practice/prime_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/project1.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Eveyday_practice/project1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/project2.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Eveyday_practice/project2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/reverse_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Eveyday_practice/reverse_array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/p1/stock_market.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/p1/stock_market.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rest_API_with_python/Screen Shot 2018-09-25 at 9.34.32 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rest_API_with_python/try-django-1.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/blog_and_test/blog/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/blog_and_test/test/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/blog_and_test/blog/post.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/blog_and_test/test/post.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/blog_and_test/blog/test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/blog_and_test/blog/test/unit/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/blog_and_test/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/blog_and_test/blog/test/unit/post_test.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/projects/p1/token.json" beforeDir="false" afterPath="$PROJECT_DIR$/projects/p1/token.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_testing/FB_automation/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_testing/FB_automation/locators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_testing/FB_automation/pages/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_testing/FB_automation/pages/login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_testing/FB_automation/pages/opt_browser.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_testing/FB_automation/pages/opt_browser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_testing/FB_automation/test_fb.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_testing/FB_automation/test_fb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/Employee_example/employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_1/Employee_example/employee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/Employee_example/test.employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_1/Employee_example/test.employee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/Employee_example/test_unit_test_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_1/Employee_example/test_unit_test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/Employee_example/unit_test_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_1/Employee_example/unit_test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/Project3/.cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_1/Project3/.cache/v/cache/lastfailed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/Project3/TestCheckout.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_1/Project3/TestCheckout.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/Project3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/blog_and_test/test/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/Project3/checkout.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_1/Project3/checkout.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/blog_and_test/test/blog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/projct4/.cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_1/projct4/.cache/v/cache/lastfailed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/projct4/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/blog_and_test/test/unit/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/projct4/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_1/projct4/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/projct4/game/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/blog_and_test/test/unit/blog_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/projct4/game/monsters.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_1/projct4/game/monsters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/projct4/test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/blog_and_test/test/unit/post_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/projct4/test/test_monster.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_1/projct4/test/test_monster.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/project1_employee/employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_1/project1_employee/employee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/project1_employee/test.employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_1/project1_employee/test.employee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/project2_dice/dice.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_1/project2_dice/dice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/project2_dice/dice_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_1/project2_dice/dice_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/project_5/.cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_1/project_5/.cache/v/cache/lastfailed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/project_5/Linereader.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_1/project_5/Linereader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/project_5/TestDoubles_Tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_1/project_5/TestDoubles_Tests.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,15 +51,15 @@
     <session id="-438687389">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="33" />
+          <entry key="project.closed" value="36" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="9" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="11" />
           <entry key="project.open.time.5" value="12" />
           <entry key="project.open.time.6" value="7" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="34" />
+          <entry key="project.opened" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -54,30 +68,32 @@
           <entry key="html" value="9" />
           <entry key="json" value="2" />
           <entry key="log" value="1" />
-          <entry key="py" value="206" />
+          <entry key="png" value="1" />
+          <entry key="py" value="224" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="9" />
+          <entry key="Image" value="1" />
           <entry key="JSON" value="2" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="206" />
+          <entry key="Python" value="224" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="158" />
-          <entry key="dummy" value="35" />
+          <entry key="dummy" value="45" />
           <entry key="html" value="1008" />
-          <entry key="py" value="21033" />
+          <entry key="py" value="22604" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="1008" />
-          <entry key="PLAIN_TEXT" value="35" />
-          <entry key="Python" value="21191" />
+          <entry key="PLAIN_TEXT" value="45" />
+          <entry key="Python" value="22762" />
         </counts>
       </usages-collector>
     </session>
@@ -88,20 +104,52 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/blog_and_test/blog/post.py">
+        <entry file="file://$PROJECT_DIR$/practice/blog_and_test/test/unit/post_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            <state>
+              <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
               <folding>
-                <marker date="1542585340186" expanded="true" signature="11:12" ph="..." />
+                <marker date="1542818381289" expanded="true" signature="206:215" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/blog_and_test/test/post.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <marker date="1542759136106" expanded="true" signature="13:19" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practice/blog_and_test/blog/test/unit/post_test.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/practice/blog_and_test/test/blog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+                <marker date="1542822350711" expanded="true" signature="238:335" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/blog_and_test/test/unit/blog_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="4" />
+              <folding>
+                <marker date="1542822316635" expanded="true" signature="332:337" ph="..." />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -133,14 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Web_testing/Project3Cit/test_citizenship_status.py" />
-        <option value="$PROJECT_DIR$/Web_testing/Project3Cit/locators.py" />
-        <option value="$PROJECT_DIR$/unittest/Project3/pytest_test.py" />
-        <option value="$PROJECT_DIR$/unittest/Project3/__init__.py" />
-        <option value="$PROJECT_DIR$/unittest/Project3/TestCheckout.py" />
-        <option value="$PROJECT_DIR$/unittest/Project3/checkout.py" />
-        <option value="$PROJECT_DIR$/unittest/project_5/Linereader.py" />
-        <option value="$PROJECT_DIR$/unittest/project_5/testdoubles_tests.py" />
         <option value="$PROJECT_DIR$/unittest/project_5/TestDoubles_Tests.py" />
         <option value="$PROJECT_DIR$/basic_python/OOP/attributes.py" />
         <option value="$PROJECT_DIR$/basic_python/OOP/characters.py" />
@@ -184,14 +224,39 @@
         <option value="$PROJECT_DIR$/practice/p2/blog/post.py" />
         <option value="$PROJECT_DIR$/practice/blog_and_test/blog/post.py" />
         <option value="$PROJECT_DIR$/practice/blog_and_test/blog/test/unit/post_test.py" />
+        <option value="$PROJECT_DIR$/practice/blog_and_test/app.py" />
+        <option value="$PROJECT_DIR$/practice/blog_and_test/blog.py" />
+        <option value="$PROJECT_DIR$/practice/blog_and_test/add_post.py" />
+        <option value="$PROJECT_DIR$/practice/blog_and_test/post.py" />
+        <option value="$PROJECT_DIR$/practice/blog_and_test/test/post.py" />
+        <option value="$PROJECT_DIR$/practice/blog_and_test/test/unit/post_test.py" />
+        <option value="$PROJECT_DIR$/practice/blog_and_test/test/unit/blog_test.py" />
+        <option value="$PROJECT_DIR$/practice/blog_and_test/test/blog.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="677" />
-    <option name="y" value="23" />
-    <option name="width" value="763" />
-    <option name="height" value="877" />
+    <option name="x" value="738" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1120" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -222,14 +287,6 @@
               <item name="Learn_python" type="462c0819:PsiDirectoryNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="blog_and_test" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn_python" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="blog_and_test" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -237,7 +294,6 @@
               <item name="Learn_python" type="462c0819:PsiDirectoryNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="blog_and_test" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="unit" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -251,16 +307,16 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/Web_testing/project1/test_login.py" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/practice/blog_and_test/test" />
+      <recent name="$PROJECT_DIR$/practice/blog_and_test/blog" />
+      <recent name="$PROJECT_DIR$/practice/blog_and_test/blog/test" />
       <recent name="$PROJECT_DIR$/practice/Eveyday_practice" />
       <recent name="$PROJECT_DIR$/practice/P0-Automated softwere testing" />
-      <recent name="$PROJECT_DIR$/projects/p1" />
-      <recent name="$PROJECT_DIR$/basic_python/csv" />
-      <recent name="$PROJECT_DIR$/basic_python/basics" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -275,8 +331,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.decorator2">
-    <configuration name="decoratoors" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.pytest in blog_test.py">
+    <configuration name="class2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,7 +344,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_python/basics/decoratoors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_python/basics/class2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,83 +374,81 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lambda_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest for post_test.PostTest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_python/basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/blog_and_test/blog/test/unit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_python/basics/lambda_practice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;post_test.PostTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="reverse_array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest in blog_test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/blog_and_test/test/unit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Eveyday_practice/reverse_array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/practice/blog_and_test/test/unit/blog_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="stock_market" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest in post_test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects/p1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/blog_and_test/test/unit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projects/p1/stock_market.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/practice/blog_and_test/test/unit/post_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unittest" type="tests" factoryName="Unittests">
+      <module name="Learn_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.stock_market" />
-      <item itemvalue="Python.reverse_array" />
-      <item itemvalue="Python.lambda_practice" />
+      <item itemvalue="Python tests.unittest" />
       <item itemvalue="Python.decorator2" />
-      <item itemvalue="Python.decoratoors" />
+      <item itemvalue="Python tests.pytest for post_test.PostTest" />
+      <item itemvalue="Python.class2" />
+      <item itemvalue="Python tests.pytest in post_test.py" />
+      <item itemvalue="Python tests.pytest in blog_test.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in blog_test.py" />
+        <item itemvalue="Python tests.pytest in post_test.py" />
+        <item itemvalue="Python tests.pytest for post_test.PostTest" />
+        <item itemvalue="Python.class2" />
         <item itemvalue="Python.decorator2" />
-        <item itemvalue="Python.decoratoors" />
-        <item itemvalue="Python.lambda_practice" />
-        <item itemvalue="Python.reverse_array" />
-        <item itemvalue="Python.stock_market" />
       </list>
     </recent_temporary>
   </component>
@@ -412,41 +466,59 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_test_monster_TestMonster_test_defaults - 2018.10.22 at 08h 45m 31s.xml">
-      <configuration name="pytest for test_monster.TestMonster.test_defaults" configurationId="tests" />
+    <history-entry file="pytest_in_blog_test_py - 2018.11.21 at 09h 21m 19s.xml">
+      <configuration name="pytest in blog_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_monster_TestMonster_test_defaults - 2018.10.22 at 08h 45m 36s.xml">
-      <configuration name="pytest for test_monster.TestMonster.test_defaults" configurationId="tests" />
+    <history-entry file="pytest_in_blog_test_py - 2018.11.21 at 09h 21m 31s.xml">
+      <configuration name="pytest in blog_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_monster_TestMonster_test_defaults - 2018.10.22 at 20h 09m 13s.xml">
-      <configuration name="pytest for test_monster.TestMonster.test_defaults" configurationId="tests" />
+    <history-entry file="pytest_in_blog_test_py - 2018.11.21 at 09h 21m 38s.xml">
+      <configuration name="pytest in blog_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_monster_TestMonster_test_defaults - 2018.10.22 at 20h 09m 27s.xml">
-      <configuration name="pytest for test_monster.TestMonster.test_defaults" configurationId="tests" />
+    <history-entry file="pytest_in_blog_test_py - 2018.11.21 at 09h 21m 46s.xml">
+      <configuration name="pytest in blog_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_monster_TestMonster_test_defaults - 2018.10.22 at 20h 13m 55s.xml">
-      <configuration name="pytest for test_monster.TestMonster.test_defaults" configurationId="tests" />
+    <history-entry file="pytest_in_blog_test_py - 2018.11.21 at 09h 21m 54s.xml">
+      <configuration name="pytest in blog_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_monster_TestMonster_test_defaults - 2018.10.22 at 20h 13m 59s.xml">
-      <configuration name="pytest for test_monster.TestMonster.test_defaults" configurationId="tests" />
+    <history-entry file="pytest_in_blog_test_py - 2018.11.21 at 09h 22m 45s.xml">
+      <configuration name="pytest in blog_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_monster_TestMonster_test_defaults - 2018.10.22 at 20h 14m 01s.xml">
-      <configuration name="pytest for test_monster.TestMonster.test_defaults" configurationId="tests" />
+    <history-entry file="pytest_in_blog_test_py - 2018.11.21 at 09h 22m 50s.xml">
+      <configuration name="pytest in blog_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_monster_TestMonster_test_defaults - 2018.10.22 at 20h 24m 26s.xml">
-      <configuration name="pytest for test_monster.TestMonster.test_defaults" configurationId="tests" />
+    <history-entry file="pytest_in_blog_test_py - 2018.11.21 at 09h 23m 22s.xml">
+      <configuration name="pytest in blog_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_monster_TestMonster_test_defaults - 2018.10.22 at 20h 30m 03s.xml">
-      <configuration name="pytest for test_monster.TestMonster.test_defaults" configurationId="tests" />
+    <history-entry file="pytest_in_blog_test_py - 2018.11.21 at 09h 23m 52s.xml">
+      <configuration name="pytest in blog_test.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_monster_TestMonster_test_defaults - 2018.10.22 at 20h 30m 04s.xml">
-      <configuration name="pytest for test_monster.TestMonster.test_defaults" configurationId="tests" />
+    <history-entry file="pytest_in_blog_test_py - 2018.11.21 at 09h 45m 17s.xml">
+      <configuration name="pytest in blog_test.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="548" y="23" width="892" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="738" y="-1057" width="1120" height="1057" extended-state="0" />
     <layout>
+      <window_info id="Favorites" order="0" sideWeight="0.5017794" side_tool="true" weight="0.30329043" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49822065" visible="true" weight="0.21838035" />
+      <window_info id="Structure" order="2" sideWeight="0.5017794" side_tool="true" weight="0.21316166" />
+      <window_info anchor="bottom" id="Python Console" order="0" weight="0.32953367" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.22590673" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5014866" side_tool="true" weight="0.39745224" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.31084338" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.4996066" visible="true" weight="0.42176166" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49851337" weight="0.39745224" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
       <window_info id="Favorites" order="0" sideWeight="0.5017794" side_tool="true" weight="0.30329043" />
       <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49822065" visible="true" weight="0.304248" />
       <window_info id="Structure" order="2" sideWeight="0.5017794" side_tool="true" weight="0.21316166" />
@@ -464,7 +536,7 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -479,70 +551,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/basic_python/basics/conditions.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_python/basics/class2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_python/basics/calculate_days.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_python/basics/bytearrays.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_python/basics/assertion_practice.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_python/OOP/characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_python/basics/decorators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-117" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/Eveyday_practice/OOP_practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="81" column="10" selection-end-line="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_python/basics/generatior.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/p1/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_python/basics/inheretance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-121" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/p1/credentials.json" />
-    <entry file="file://$PROJECT_DIR$/flask/app2/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="33" selection-start-line="33" selection-end-line="33" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API/project1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic_python/basics/api_practice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -620,20 +628,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unittest/Employee_example/employee.py">
+    <entry file="file://$PROJECT_DIR$/unittest_1/Employee_example/employee.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/unittest/Employee_example/test.employee.py">
+    <entry file="file://$PROJECT_DIR$/unittest_1/Employee_example/test.employee.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unittest/projct4/test/test_monster.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
@@ -664,24 +665,10 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Downloads/discouver canada notes%3a" />
-    <entry file="file://$PROJECT_DIR$/web_testing/FB_automation/test_fb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web_testing/FB_automation/pages/login.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web_testing/FB_automation/locators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -720,9 +707,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/blog_and_test/blog/app.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/blog_and_test/blog/app.py" />
     <entry file="file://$PROJECT_DIR$/practice/P0-Automated softwere testing/practice_class.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -730,18 +715,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/blog_and_test/blog/post.py">
+    <entry file="file://$PROJECT_DIR$/practice/blog_and_test/blog/post.py" />
+    <entry file="file://$PROJECT_DIR$/practice/blog_and_test/blog/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/practice/blog_and_test/blog/test/unit/post_test.py" />
+    <entry file="file://$PROJECT_DIR$/practice/blog_and_test/test/app.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_python/basics/class2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rest_API_with_python/try-django-1.10/blog/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        <state>
           <folding>
-            <marker date="1542585340186" expanded="true" signature="11:12" ph="..." />
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/blog_and_test/blog/test/unit/post_test.py">
+    <entry file="file://$PROJECT_DIR$/Rest_API_with_python/try-django-1.10/blog/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rest_API_with_python/Screen Shot 2018-09-25 at 9.34.32 PM.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rest_API_with_python/try-django-1.10/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rest_API_with_python/try-django-1.10/intro_to_django/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_testing/FB_automation/locators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_testing/FB_automation/test_fb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest_1/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest_1/projct4/test/test_monster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/blog_and_test/test/unit/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/blog_and_test/test/unit/post_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
+          <folding>
+            <marker date="1542818381289" expanded="true" signature="206:215" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/blog_and_test/test/post.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1542759136106" expanded="true" signature="13:19" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/blog_and_test/test/unit/blog_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="4" />
+          <folding>
+            <marker date="1542822316635" expanded="true" signature="332:337" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/blog_and_test/test/blog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+            <marker date="1542822350711" expanded="true" signature="238:335" ph="..." />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
