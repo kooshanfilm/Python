@@ -1,1 +1,1 @@
-# Learn_python
+# Learn Python with projects and practice 
