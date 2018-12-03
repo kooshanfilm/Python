@@ -46,7 +46,7 @@ class Market(Read_sheet):
         sum = 0
         Market.decoration(self, 'T')
         result = self.value
-        for i in range(18, 24):
+        for i in range(18, 25):
             sym = result[i][9]
             current_stock_price = result[i][15]
             sym = sym.upper()
