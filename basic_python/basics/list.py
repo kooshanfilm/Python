@@ -7,6 +7,7 @@ def main():
    y.append(8) # only list you can cuz its imutable
    y.insert(0,12) #index and number
 
+   print (type(j), j)
    print (type(x),x)
    print(type(y), y)
    print (j)
