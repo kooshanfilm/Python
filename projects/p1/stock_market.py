@@ -1,7 +1,4 @@
 from quickstart import *
-from flask import Flask, jsonify, Response
-from flask import request
-import json
 from termcolor import colored
 import time
 import os
@@ -27,13 +24,13 @@ class Market(Read_sheet):
         self.sum = sum
         Market.decoration(self, 'R')
         result = self.value
-        for i in range(25, 30):
+        for i in range(28, 32):
             sym = result[i][0]
             sym = sym.upper()
             price = result[i][7].replace(",", "")
             price = float(price)
             self.sum = self.sum + price
-            if price > 0:
+            if price >= 0:
                 print("------------------------------------")
                 print(colored("{} is up now by {}".format(sym, price), 'green'))
                 print("------------------------------------")
@@ -46,7 +43,7 @@ class Market(Read_sheet):
         sum = 0
         Market.decoration(self, 'T')
         result = self.value
-        for i in range(18, 25):
+        for i in range(20, 23):
             sym = result[i][9]
             current_stock_price = result[i][15]
             sym = sym.upper()
