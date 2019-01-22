@@ -8,7 +8,6 @@ Feature: Test navigation between pages
     When I click on the line with id "blog-link"
     Then I am on the blog page
 
-
   Scenario: blog can go to HomePage
     Given im on the blogpage
     When I click on the line with id "home-link"

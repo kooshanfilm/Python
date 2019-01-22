@@ -8,8 +8,6 @@ class PythonOrgSearch(unittest.TestCase):
     def setUp(self):
         self.driver = webdriver.Chrome()
 
-
-
     def test_open_web(self):
         driver = self.driver
         driver.get("https://www.vfsvisaonline.com/Netherlands-Global-Online-Tracking_Zone1/TrackLanding.aspx")

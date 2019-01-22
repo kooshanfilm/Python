@@ -9,6 +9,6 @@ elemnt = soup.find("p",{"class":"u-centred price"})
 string_price = elemnt.text
 
 price_without_symbole = string_price[1:]
-print(float(price_without_symbole))
+final_price = (float(price_without_symbole))
+print (final_price)
 
-#class="u-centred price"

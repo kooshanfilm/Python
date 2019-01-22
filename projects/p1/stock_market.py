@@ -4,6 +4,7 @@ import time
 import os
 
 
+
 class Market(Read_sheet):
 
     def __init__(self):
