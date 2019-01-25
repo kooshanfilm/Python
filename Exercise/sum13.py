@@ -9,9 +9,6 @@
 # sum13([1, 2, 2, 1, 13]) 6
 
 def sum13(nums):
-    sum = 0
-    for num in nums:
-        sum = sum + num
+  print nums.index(13)
 
-
-print(sum13([1, 2, 2, 1]))
+print(sum13([13, 1, 13]))
