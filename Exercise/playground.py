@@ -1,5 +1,9 @@
-names = [1,2,3,4,5,3,3,3]
-names = set(names)
-names = list(names)
 
-print names
+word = "abc is the only"
+my_list = []
+print word.split()
+for s in word:
+    my_list.append(s)
+
+
+print my_list
