@@ -2,10 +2,14 @@ from quickstart import *
 from termcolor import colored
 import time
 import os
+from Stock_price import *
+import sys
 
 
 
 class Market(Read_sheet):
+
+
 
     def __init__(self):
         self.market = Jadi()
@@ -44,7 +48,7 @@ class Market(Read_sheet):
         sum = 0
         Market.decoration(self, 'T')
         result = self.value
-        for i in range(20, 23):
+        for i in range(20, 24):
             sym = result[i][9]
             current_stock_price = result[i][15]
             sym = sym.upper()
@@ -58,7 +62,6 @@ class Market(Read_sheet):
             else:
                 # print(colored("{}---------{}----------{}".format(sym,current_stock_price, price), 'red'))
                 print(colored("{}    {}".format(sym, price), 'red'))
-
 
         print('')
         Market.total_price(self,sum)
@@ -80,14 +83,32 @@ class Market(Read_sheet):
             Market.read_excel_sheet(self)
             Market.rrsp_stat(self)
             Market.tfsa_stat(self)
+            Market.stock_price(self)
             time.sleep(10)
             bashCommand = "clear"
             os.system(bashCommand)
             refresh = raw_input()
 
+    def stock_price(self):
+        tfsa_stock_list = ['nflx','amzn','fb','tsla']
+        rsp_stock_list = ['mu','googl','fb','baba','tsla']
+        self.check_current_price = Stock_price() # create instance from another class
+
+        for stock in tfsa_stock_list:
+            print (stock.upper()),
+            print (self.check_current_price.check_price(stock))
+        print('__________________________________')
+        for stock in rsp_stock_list:
+            print (stock.upper()),
+            print (self.check_current_price.check_price(stock))
+
+
 def main():
     call = Market()
     call.get_result()
+
+
+
 
 if __name__ == '__main__':
     main()

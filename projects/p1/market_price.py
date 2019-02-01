@@ -22,11 +22,11 @@ class Jadi:
 
     def stock_price(self,stock_symbol):
 
-         send_request = requests.get('https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol={}&apikey=1HTVZL0H0N34WT84'.format(stock_symbol))
+         send_request = requests.get('https://api.iextrading.com/1.0/stock/{}/price'.format(stock_symbol))
          requests_json = send_request.json()
          #print requests_json
-         current_price = float((requests_json['Global Quote']['05. price']))
-         print (current_price)
+         #current_price = float((requests_json['Global Quote']['05. price']))
+         print (requests_json)
 
 
 
@@ -47,7 +47,7 @@ class Jadi:
 def main():
     call = Jadi()
     #call.btc_price()
-    print (call.stock_price('fb'))
+    call.stock_price('fb')
     #call.alert('fb')
 
 
