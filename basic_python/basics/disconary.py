@@ -16,3 +16,14 @@ def main():
     d2['eight'] = 8
     print(d2)
 if __name__ == '__main__': main()
+
+
+# student = {1: 'value1','key2' :'value2'}
+#
+# student['james'] = 'boby'
+# student.update({1 : 'Eventbase'})
+# print student
+# print student.items()
+# print student.keys()
+# print student.values()
+# print (student.get('key23'))
