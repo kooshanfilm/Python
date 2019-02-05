@@ -9,3 +9,10 @@ class Stock_price():
         return requests_json
 
 
+    def check_change(self,stock_symbol):
+        send_request = requests.get('https://api.iextrading.com/1.0/stock/{}/chart/1d'.format(stock_symbol))
+
+
+
+
+
