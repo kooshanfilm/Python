@@ -11,13 +11,10 @@ class LoginTestCase(unittest.TestCase):
         call = LoginPage()
         call.open_the_page()
 
-
     def testauth(self):
         call = LoginPage()
         call.open_the_page()
         call.auth("test", "test")
-
-
 
 if __name__ == '__main__':
     unittest.main()
