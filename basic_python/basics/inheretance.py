@@ -1,6 +1,3 @@
-
-
-
 class Animal:
     def talk(self):
         print('I talk')
@@ -12,10 +9,7 @@ class Animal:
         print('this is clothes>> animal class')
 
 
-
 class Duck(Animal):
-
-
 
     def quack(self):
         print('Quaaack')
@@ -30,12 +24,13 @@ class Duck(Animal):
 
 class Dog(Animal):
     def clothes(self):
-        #print ('fido in dog class')
+        # print ('fido in dog class')
         pass
 
-def main():
 
-   fido = Dog()
-   fido.clothes()
+def main():
+    fido = Dog()
+    fido.clothes()
+
 
 if __name__ == '__main__': main()
