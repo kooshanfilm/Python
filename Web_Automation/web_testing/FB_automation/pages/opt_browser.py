@@ -12,6 +12,7 @@ class OptBrowser(object):
     driver = webdriver.Chrome()
     base_url = 'http://www.facebook.com'
 
+
     def __init__(self):
         self.driver = OptBrowser.driver
         self.base_url =OptBrowser.base_url

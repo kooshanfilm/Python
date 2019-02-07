@@ -1,4 +1,5 @@
 from pages.login import LoginPage
+from pages.login import OptBrowser
 from selenium import webdriver
 
 import unittest
@@ -6,15 +7,28 @@ import unittest
 
 class LoginTestCase(unittest.TestCase):
 
+    def setUp(self):
+        self.username = "test"
+        self.pasword = "test"
+        self.call = LoginPage()
+
     def testlogin(self):
         # loginpage is from login.py
-        call = LoginPage()
-        call.open_the_page()
+        self.call.open_the_page()
 
     def testauth(self):
-        call = LoginPage()
-        call.open_the_page()
-        call.auth("test", "test")
+        self.call.open_the_page()
+        self.call.auth(self.username,self.pasword)
+
+    def testcheck_languages(self):
+        self.call.check_language()
+
+
+    def testtear_down(self):
+        call = OptBrowser()
+        call.quit()
+
+
 
 if __name__ == '__main__':
     unittest.main()
