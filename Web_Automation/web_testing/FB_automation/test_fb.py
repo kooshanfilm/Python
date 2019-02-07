@@ -23,7 +23,7 @@ class LoginTestCase(unittest.TestCase):
     def testcheck_languages(self):
         self.call.check_language()
 
-
+    # close the browser after the test
     def testtear_down(self):
         call = OptBrowser()
         call.quit()

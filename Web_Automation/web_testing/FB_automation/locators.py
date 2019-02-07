@@ -7,6 +7,7 @@ class Loginpagelocators:
     user_name_filed = "email"
     pass_filed = "pass"
 
+    # diffrent lanuges on facebook main page
     english = "//*[@id='pageFooter']/ul/li[3]/a"
     french =  "//*[@id='pageFooter']/ul/li[3]/a"
     chinese = "//*[@id='pageFooter']/ul/li[4]/a"

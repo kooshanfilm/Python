@@ -19,7 +19,7 @@ class LoginPage(OptBrowser):
         OptBrowser.driver.find_element_by_id(Loginpagelocators.user_name_filed).send_keys(username)
         OptBrowser.driver.find_element_by_id(Loginpagelocators.pass_filed).send_keys(pasw)
 
-
+    # check if all languges are working
     def check_language(self):
         OptBrowser.driver.find_element_by_xpath(Loginpagelocators.japanese).click()
         OptBrowser.driver.find_element_by_xpath(Loginpagelocators.chinese).click()
