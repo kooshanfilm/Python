@@ -52,6 +52,7 @@ class Market(Read_sheet):
             sym = result[i][9]
             current_stock_price = result[i][15]
             sym = sym.upper()
+
             price = result[i][16].replace(",", "")
             price = float(price)
             sum = sum + price
