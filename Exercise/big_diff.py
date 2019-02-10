@@ -1,3 +1,4 @@
+import unittest
 
 # Given an array length 1 or more of ints,
 #  return the difference between the largest and smallest values in the array. Note:
@@ -12,4 +13,14 @@ def big_diff(num):
     diff_two = max(num) - min(num)
     return diff_two
 
-big_diff([12,3,1,2])
+# print big_diff([12,3,1,2])
+
+class BigDiff(unittest.TestCase):
+
+    def test_big_diff(self):
+        self.assertEqual(big_diff([12,3,1,2]),11)
+
+
+
+if __name__ == '__main__':
+    unittest.main()
