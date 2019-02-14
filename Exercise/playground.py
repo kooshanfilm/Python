@@ -1,18 +1,14 @@
+def missing_element(f_list,s_list):
 
-
-
-
-x = 0
-my_list = [1,2,3,4]
-l = len(my_list)
-second ={}
-while x < l:
-    for num in my_list:
-        if num in second:
-            second[my_list[x]] = ""
+    missing_arr = []
+    for i in f_list:
+        if i in s_list:
+            pass
         else:
-            second[my_list[x]] = num
-    x+=1
+            missing_arr.append(i)
+    missing = missing_arr[0]
+    return missing
 
 
-print second
+
+print missing_element([1,2,3,4],[1,2,3])
