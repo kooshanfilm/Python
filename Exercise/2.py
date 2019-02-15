@@ -11,6 +11,4 @@ def string_times(str, n):
     else:
         return (str * n)
 
-
-
 print (string_times("hi",2))
