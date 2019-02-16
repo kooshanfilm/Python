@@ -24,7 +24,7 @@ class MoneyMachine():
             total_price = ((number_shares * total_price_after_profit) - 20.99) - new_user_budget
             print ("{}% <<stop loss at >> {} profit {}").format(percent,total_price_after_profit ,total_price)
 
-
+    # start the project
     def start_cal(self):
         user_input = "y"
         while user_input == "y":
