@@ -1,18 +1,23 @@
-class Parents():
+class Apple():
 
-    def last_name(self,last_name):
-        self.last_name = last_name
-
-    def print_client(self):
-        print (self.last_name)
+    ceo = "Steve Jobs"
+    address ="1800 infinity road"
 
 
-class Child(Parents):
+    def about_app(self):
+        print "This is apple product"
+        print ("CEO {}" .format(self.address))
 
-    def test(self):
-        return False
 
 
-call_client = Child()
-call_client.last_name("james")
-call_client.print_client()
+class Macbook(Apple):
+
+    def macboodAir(self):
+        print ("Apple product made in {}".format(self.address))
+        self.about_app()
+
+
+
+myapple = Macbook()
+myapple.macboodAir()
+
