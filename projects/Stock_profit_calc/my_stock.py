@@ -28,26 +28,23 @@ class MoneyMachine:
             print ("{}% <<stop loss at >> {} profit {}").format(percent,total_price_after_profit ,total_price)
 
 
-    def avrage_down(self): # analizing user's options
-
-        # 3000 >> 160 >> 18
-        # 2000 >> 155 >> 12
-        number_shares = 0
-        user_input = "y"
-        while user_input == "y":
-            self.user_budget = int (raw_input("How much you want to buy :")) + self.new_user_budget #3000
-            self.stock_price = float(raw_input("Enter stock price :")) #160
-            number_shares = int(self.user_budget / self.stock_price) + number_shares #3000/160 = 18
-            self.new_user_budget = (number_shares * self.stock_price) # 18*160 = 2,880
-            user_input = raw_input("do you wan to continue: ")
-
-
-        print self.user_budget
-        print number_shares
-        avrage_down_price = float(self.new_user_budget / number_shares)
-        print avrage_down_price
-
-
+    # def avrage_down(self): # analizing user's options
+    #
+    #     # 3000 >> 160 >> 18
+    #     # 2000 >> 155 >> 12
+    #     number_shares = 0
+    #     user_input = "y"
+    #     while user_input == "y":
+    #         self.user_budget = int (raw_input("How much you want to buy :"))  #3000
+    #         self.stock_price = float(raw_input("Enter stock price :")) #160
+    #         number_shares = int(self.user_budget / self.stock_price)  #3000/160 = 18
+    #         self.new_user_budget = (number_shares * self.stock_price) # 18*160 = 2,880
+    #         user_input = raw_input("do you wan to continue: ")
+    #
+    #     print self.new_user_budget
+    #     print number_shares
+    #     avrage_down_price = float(self.new_user_budget / number_shares)
+    #     print avrage_down_price
 
     def start_project(self): # start the project
         user_input = raw_input("Do you want to check the profit(P) or avrage down (A)")
