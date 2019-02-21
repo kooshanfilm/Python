@@ -8,7 +8,6 @@ class Animal:
     def clothes(self):
         print('this is clothes>> animal class')
 
-
 class Duck(Animal):
 
     def quack(self):
