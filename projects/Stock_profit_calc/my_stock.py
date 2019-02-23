@@ -59,11 +59,7 @@ class MoneyMachine:
                 pass
 
 
-
-def main():
-    stock = MoneyMachine()
-    stock.start_project()
+stock = MoneyMachine()
+stock.start_project()
 
 
-if __name__ == '__main__':
-    main()
