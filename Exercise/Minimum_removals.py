@@ -14,8 +14,8 @@ def findMinNumber(my_list):
         for i in sorted_list:
             # print i , sum
             if ((sum - i) % 2 !=0):
-                return i
-
+                pass
+            return i
 
 # print findMinNumber([100,23,45,21,65])
 
