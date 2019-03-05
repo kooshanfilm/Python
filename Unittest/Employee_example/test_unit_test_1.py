@@ -7,7 +7,7 @@ class TestCalc(unittest.TestCase):
 
     def test_add(self):
         #self.assertEqual(unit_test_1.add(10,5),15)
-        self.assertEqual(unit_test_1.add(-1,0), -1)
+        self.assertEqual(unit_test_1.add(1,0), 1)
         self.assertEqual(unit_test_1.add(-1,-1),-2)
 
 
