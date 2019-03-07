@@ -1,4 +1,4 @@
-import requests
+import request
 
 
 class Stock_price():

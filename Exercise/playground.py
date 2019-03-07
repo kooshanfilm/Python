@@ -1,5 +1,7 @@
 
 
+mylist= [1,2,3]
 
-a = "abc"
-print (a[::-1])
+i = 3
+
+[print(i,ii) for ii in range(5)]
