@@ -1,0 +1,56 @@
+alert("hellow world")
+
+undefined and null are diffrent
+
+clear() will clear the page
+-----------
+test = "hello"
+"hello"
+test.length
+5
+length(test)
+VM202:1 Uncaught TypeError: length is not a function
+    at <anonymous>:1:1
+(anonymous) @ VM202:1
+"hello".length
+5
+"hello"[0]
+"h"
+test[0]
+"h"
+
+--------
+//variables
+undefined
+// var varName = Vale;
+undefined
+var bankAccount = 100
+undefined
+bankAccount
+100
+var deposit = 50
+undefined
+var total = bankAccount + deposit
+undefined
+total
+150
+var greeting = "Welcome to my homepage"
+undefined
+var name = "my name is James"
+undefined
+alert(greeting + name)
+undefined
+var myVariable
+undefined
+var bonus = null
+undefined
+
+console.log()
+undefined
+prompt("enter something")
+"hello"
+var age = prompt("Enter your age")
+undefined
+age
+"10"
+----------
