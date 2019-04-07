@@ -1,11 +1,13 @@
 # About the project:
 # give how much money I have
 # which stock I want to buy.
+from termcolor import colored # change the color
 
 class MoneyMachine:
     user_budget = 0
     stock_price = 0
     new_user_budget = 0
+    stop_loss = 0
 
     def user_portfolio(self):
 
@@ -45,21 +47,25 @@ class MoneyMachine:
     #     avrage_down_price = float(self.new_user_budget / number_shares)
     #     print avrage_down_price
 
+    def stopLoss(self):
+
+        self.user_budget = int(raw_input("How much you want to buy :"))
+        self.stock_price = float(raw_input("Enter stock price :"))
+        self.stop_loss =  self.stock_price - ((self.stock_price * 4)/100)
+        self.total_loss = ((self.user_budget * 4)/100)
+        print (colored("stop loss at: {} < == > you loss: {}",'blue').format(self.stop_loss,self.total_loss))
+
     def start_project(self):  # start the project
 
         while True:
             print ("Press 1 if you want to check the profit")
-            print ("Press 2 if you want to check the average down")
+            print ("Press 2 if you want to check stop loss")
             user_input = raw_input("")
             if user_input == "1":
                 self.user_portfolio()
                 self.stock_calculation()
             elif user_input == "2":
-                # self.avrage_down()
-                pass
-
+                self.stopLoss()
 
 stock = MoneyMachine()
 stock.start_project()
-
-

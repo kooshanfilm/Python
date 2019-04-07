@@ -1,7 +1,5 @@
+watch_list = {'tsla': 196}
+for i in range(len(watch_list)):
+    print (i)
 
 
-mylist= [1,2,3]
-
-i = 3
-
-[print(i,ii) for ii in range(5)]

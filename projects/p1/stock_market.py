@@ -5,11 +5,7 @@ import os
 from Stock_price import *
 import sys
 
-
-
 class Market(Read_sheet):
-
-
 
     def __init__(self):
         self.market = Jadi()
@@ -91,22 +87,28 @@ class Market(Read_sheet):
             refresh = raw_input()
 
     def stock_price(self):
-        tfsa_stock_list = ['nflx','amzn','fb','tsla']
-        rsp_stock_list = ['mu','googl','fb','baba','tsla']
-        self.check_current_price = Stock_price() # create instance from another class
-
+        self.check_current_price = Stock_price()  # create instance from another class
+        tfsa_stock_list = ['nflx','amzn','fb','tsla','mu','googl','fb','baba','tsla']
         for stock in tfsa_stock_list:
             print (stock.upper()),
             print (self.check_current_price.check_price(stock))
         print('__________________________________')
-        for stock in rsp_stock_list:
-            print (stock.upper()),
-            print (self.check_current_price.check_price(stock))
+
+    def stock_alert(self):
+        watch_list = {'nflx':123,'fb':174,'amzn':1837.28,'googl':123}
+        self.check_current_price = Stock_price()
+        for i in range(len(watch_list)):
+            stock_current_price = (self.check_current_price.check_price(list(watch_list)[i]))
+            if stock_current_price == watch_list[(list(watch_list)[i])]:
+                print(list(watch_list)[i])
+
 
 
 def main():
     call = Market()
-    call.get_result()
+    #call.get_result()
+    #call.stock_price()
+    call.stock_alert()
 
 
 
