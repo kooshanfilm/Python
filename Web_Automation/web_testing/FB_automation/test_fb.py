@@ -13,7 +13,7 @@ class LoginTestCase(unittest.TestCase):
         self.call = LoginPage()
 
     def testlogin(self):
-        # loginpage is from login.py
+        # loginpage is from MainAmazonPage.py
         self.call.open_the_page()
 
     def testauth(self):

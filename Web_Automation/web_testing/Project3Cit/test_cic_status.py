@@ -8,12 +8,12 @@ class LoginTestCase(unittest.TestCase):
 
     def testlogin(self):
         try:
-            # loginpage is from login.py
+            # loginpage is from MainAmazonPage.py
             call = LoginPage()
             call.open_the_page()
             call.accept_terms_of_service()
             call.choose_identification_Type()
-            call.application_info('54667184','Rostamzadeh Torghabeh')
+            call.application_info('54667184', 'Rostamzadeh Torghabeh')
             call.application_final_status()
 
         except:
