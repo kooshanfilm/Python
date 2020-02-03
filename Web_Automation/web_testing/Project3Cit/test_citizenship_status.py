@@ -26,12 +26,12 @@ class Check_status:
 
         server_list = browser.find_by_id('idTypeLabel')
         server_list.find_by_xpath("//*[@id='idTypeLabel']/option[2]").click()
-        browser.find_by_xpath("//*[@id='idNumberLabel']").fill('54667184')
-        browser.find_by_xpath("//*[@id='surnameLabel']").fill('Rostamzadeh Torghabeh')
+        browser.find_by_xpath("//*[@id='idNumberLabel']").fill('')
+        browser.find_by_xpath("//*[@id='surnameLabel']").fill('')
 
         server_list2 = browser.find_by_id('cobLabel')
         server_list2.find_by_xpath("//*[@id='cobLabel']/option[118]").click()
-        browser.execute_script("dobDate.value = '1987-04-13'")
+        browser.execute_script("dobDate.value = ''")
         browser.find_by_xpath("//*[@id='wb-main-in']/div[2]/form/div[22]/input[1]").click()
         element = browser.find_by_xpath("//*[@id='wb-main-in']/div[2]/form/table/tbody/tr/td[2]/a").text
         #print(element)
