@@ -1,4 +1,4 @@
-from splinter.browser import Browser
+# from splinter.browser import Browser
 import time
 import datetime
 import requests

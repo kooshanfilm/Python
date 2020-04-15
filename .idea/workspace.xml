@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12ad2953-4bf7-4eaa-8f8e-ff33bff5c831" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Web_Automation/web_testing/36Work/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_Automation/web_testing/36Work/pages/hcps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_Automation/web_testing/36Work/pages/orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_Automation/web_testing/36Work/pages/patients.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Learn_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learn_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="12ad2953-4bf7-4eaa-8f8e-ff33bff5c831" name="Default" comment="More UI automation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Automation/web_testing/FB_automation/pages/opt_browser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Automation/web_testing/FB_automation/pages/opt_browser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Automation/web_testing/FB_automation/test_fb.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Automation/web_testing/FB_automation/test_fb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Automation/web_testing/Project3Cit/test_cic_status.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Automation/web_testing/Project3Cit/test_cic_status.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web_Automation/web_testing/Project3Cit/test_citizenship_status.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Automation/web_testing/Project3Cit/test_citizenship_status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/MasterFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/MasterFile.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,15 +54,15 @@
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/Web_testing/project1/test_login.py" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Web_Automation/web_testing/Amazon" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/API/Random_Project" />
+      <recent name="$PROJECT_DIR$/API/36API" />
       <recent name="$PROJECT_DIR$/Web_Automation/web_testing/36Work" />
       <recent name="$PROJECT_DIR$/practice/blog_and_test/test" />
       <recent name="$PROJECT_DIR$/practice/blog_and_test/blog" />
-      <recent name="$PROJECT_DIR$/practice/blog_and_test/blog/test" />
-      <recent name="$PROJECT_DIR$/practice/Eveyday_practice" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Web_Automation/web_testing/Amazon" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -85,8 +77,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.orders">
-    <configuration name="APITEST" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.P1">
+    <configuration name="368" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Web_Automation/web_testing/36Work" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Web_Automation/web_testing/36Work/APITEST.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API/36API/IDE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="orders" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="P1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API/36Work" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Code_Challenge" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API/36Work/orders.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Code_Challenge/P1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,19 +120,67 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in smoke_test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="Reverse_String" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Web_Automation/web_testing/36Work" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interview Questions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Web_Automation/web_testing/36Work/smoke_test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview Questions/Reverse_String.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SIT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Learn_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API/36API" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API/36API/SIT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="x" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Learn_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API/x.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="pytest in smoke_test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -155,21 +195,6 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/Web_Automation/web_testing/Amazon/smoke_test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_fb.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="Learn_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Web_Automation/web_testing/FB_automation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Web_Automation/web_testing/FB_automation/test_fb.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -189,18 +214,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.orders" />
-      <item itemvalue="Python.APITEST" />
+      <item itemvalue="Python.368" />
+      <item itemvalue="Python.x" />
+      <item itemvalue="Python.SIT" />
+      <item itemvalue="Python.Reverse_String" />
       <item itemvalue="Python tests.unittest" />
-      <item itemvalue="Python tests.pytest in smoke_test.py" />
-      <item itemvalue="Python tests.pytest in test_fb.py" />
+      <item itemvalue="Python.P1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in smoke_test.py" />
-        <item itemvalue="Python.APITEST" />
-        <item itemvalue="Python tests.pytest in test_fb.py" />
-        <item itemvalue="Python.orders" />
+        <item itemvalue="Python.P1" />
+        <item itemvalue="Python.SIT" />
+        <item itemvalue="Python.368" />
+        <item itemvalue="Python.Reverse_String" />
+        <item itemvalue="Python.x" />
       </list>
     </recent_temporary>
   </component>
@@ -215,6 +242,14 @@
       <option name="presentableId" value="Default" />
       <updated>1532279153102</updated>
     </task>
+    <task id="LOCAL-00001" summary="More UI automation">
+      <created>1579488464321</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579488464321</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,6 +264,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="More UI automation" />
+    <option name="LAST_COMMIT_MESSAGE" value="More UI automation" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
