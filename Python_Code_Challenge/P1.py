@@ -13,7 +13,6 @@ for guess_num in range(1,6):
         print("Your number is higher than our number")
     else:
         break
-
 if guess == number:
     print ("Bingooo " + str(guess_num))
 else:
