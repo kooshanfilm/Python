@@ -23,12 +23,12 @@ class TestHome(TestPyOrgBase):
     def setUp(self):
         self.home = HomePage(TestHome.driver)
 
-
     def test_TC001_homepage(self):
-
         assert self.driver.current_url == 'https://www.amazon.ca/'
+
+    def test_TC002_signfromhomepage(self):
         self.home.click(HomePageLocators.MID_PAGE_SIGNIN)
 
-    def test_TC001_dealsstore(self):
-        self.home.click(DealsStorePageLocators.DEALSSTORE)
+    def test_TC003_dealsstore(self):
+        self.home.click(HomePageLocators.DEALSSTORE)
 
