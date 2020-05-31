@@ -21,6 +21,9 @@ class BasePage:
         element = WebDriverWait(self.driver, 10).until(EC.visibility_of_element_located(by_locator))
         assert element.text == elem_text
 
+    def wait(self, by_locator):
+        WebDriverWait(self.driver, 10).until(EC.visibility_of_element_located(by_locator))
+
 
 class HomePage(BasePage):
     """
@@ -29,3 +32,11 @@ class HomePage(BasePage):
     def __init__(self, driver):
         BasePage.__init__(self, driver)
         self.driver.get("https://www.amazon.ca/")
+
+class DealsStore(BasePage):
+    """
+    Home page of Amazon
+    """
+    def __init__(self, driver):
+        BasePage.__init__(self, driver)
+        self.driver.get("https://www.amazon.ca/gp/goldbox?ref_=nav_cs_gb")
