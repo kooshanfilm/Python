@@ -12,7 +12,7 @@ class TestPyOrgBase(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         chrome_options = webdriver.ChromeOptions()
-        chrome_options.add_argument('headless')
+        # chrome_options.add_argument('headless')
         chrome_options.add_argument('window-size=1920x1080')
         cls.driver = webdriver.Chrome(options=chrome_options)
 
@@ -27,7 +27,7 @@ class TestHome(TestPyOrgBase):
     def setUp(self):
         self.home = HomePage(TestHome.driver)
 
-    @unittest.skip('demonstrating skipping the test')
+    # @unittest.skip('demonstrating skipping the test')
     def test_TC001_py3_doc_button(self):
         self.home.hover_to(CommonPageLocators.DOC)
         self.home.assert_elem_text(CommonPageLocators.PY3_DOC_BUTTON, 'Python 3.x Docs')

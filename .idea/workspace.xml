@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="12ad2953-4bf7-4eaa-8f8e-ff33bff5c831" name="Default" comment="More UI automation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Automation/web_testing/Project3Cit/test_citizenship_status.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Automation/web_testing/Project3Cit/test_citizenship_status.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/MasterFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/MasterFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Automation/web_testing/Python_UI_Automation_Template/POM/page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Automation/web_testing/Python_UI_Automation_Template/POM/page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Automation/web_testing/Python_UI_Automation_Template/POM/testAll.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Automation/web_testing/Python_UI_Automation_Template/POM/testAll.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,15 +54,15 @@
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/Web_testing/project1/test_login.py" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Web_Automation/web_testing/Amazon" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Playground" />
       <recent name="$PROJECT_DIR$/API/Random_Project" />
       <recent name="$PROJECT_DIR$/API/36API" />
       <recent name="$PROJECT_DIR$/Web_Automation/web_testing/36Work" />
       <recent name="$PROJECT_DIR$/practice/blog_and_test/test" />
-      <recent name="$PROJECT_DIR$/practice/blog_and_test/blog" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Web_Automation/web_testing/Amazon" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -77,8 +77,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.P1">
-    <configuration name="368" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.pytest in All Test Cases.py">
+    <configuration name="All_Test_Cases" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Facebook_Web_Automation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API/36API/IDE.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Facebook_Web_Automation/All_Test_Cases.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="P1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="home" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Code_Challenge" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Playground" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Code_Challenge/P1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Playground/home.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,81 +120,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Reverse_String" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Learn_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interview Questions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview Questions/Reverse_String.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SIT" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Learn_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API/36API" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API/36API/SIT.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="x" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Learn_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API/x.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in smoke_test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in All Test Cases.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Web_Automation/web_testing/Amazon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Amazon Web Automation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Web_Automation/web_testing/Amazon/smoke_test.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Amazon Web Automation/All Test Cases.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in TestAll-NonPOM.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Learn_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Web_Automation/web_testing/Python_UI_Automation_Template" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Web_Automation/web_testing/Python_UI_Automation_Template/TestAll-NonPOM.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in testAll.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Learn_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Web_Automation/web_testing/Python_UI_Automation_Template/POM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Web_Automation/web_testing/Python_UI_Automation_Template/POM/testAll.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -214,20 +181,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.368" />
-      <item itemvalue="Python.x" />
-      <item itemvalue="Python.SIT" />
-      <item itemvalue="Python.Reverse_String" />
+      <item itemvalue="Python.home" />
       <item itemvalue="Python tests.unittest" />
-      <item itemvalue="Python.P1" />
+      <item itemvalue="Python tests.pytest in TestAll-NonPOM.py" />
+      <item itemvalue="Python tests.pytest in testAll.py" />
+      <item itemvalue="Python.All_Test_Cases" />
+      <item itemvalue="Python tests.pytest in All Test Cases.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.P1" />
-        <item itemvalue="Python.SIT" />
-        <item itemvalue="Python.368" />
-        <item itemvalue="Python.Reverse_String" />
-        <item itemvalue="Python.x" />
+        <item itemvalue="Python tests.pytest in All Test Cases.py" />
+        <item itemvalue="Python.All_Test_Cases" />
+        <item itemvalue="Python.home" />
+        <item itemvalue="Python tests.pytest in testAll.py" />
+        <item itemvalue="Python tests.pytest in TestAll-NonPOM.py" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +216,35 @@
       <option name="project" value="LOCAL" />
       <updated>1579488464321</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Clean up">
+      <created>1586925198697</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586925198697</updated>
+    </task>
+    <task id="LOCAL-00003" summary="More clean up">
+      <created>1586925399180</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586925399180</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added a new test case">
+      <created>1590955001987</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590955001987</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixed a test case">
+      <created>1590955259125</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590955259125</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,7 +262,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="More UI automation" />
-    <option name="LAST_COMMIT_MESSAGE" value="More UI automation" />
+    <MESSAGE value="Clean up" />
+    <MESSAGE value="More clean up" />
+    <MESSAGE value="Added a new test case" />
+    <MESSAGE value="Fixed a test case" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed a test case" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">

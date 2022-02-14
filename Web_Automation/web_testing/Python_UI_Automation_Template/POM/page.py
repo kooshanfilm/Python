@@ -31,7 +31,7 @@ class HomePage(BasePage):
     Home page of Python.org
     """
     def __init__(self, driver):
-        super().__init__(driver)
+        BasePage.__init__(self,driver)
         self.driver.get("https://www.python.org")
 
 class AboutPage(BasePage):
@@ -39,6 +39,6 @@ class AboutPage(BasePage):
     About page of Python.org
     """
     def __init__(self, driver):
-        super().__init__(driver)
+        BasePage.__init__(self,driver)
         self.driver.get("https://www.python.org/about/")
 
