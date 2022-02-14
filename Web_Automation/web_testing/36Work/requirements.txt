@@ -17,7 +17,7 @@ numpy==1.8.0rc1
 odict==1.7.0
 py2app==0.7.3
 pycparser==2.19
-Pygments==2.5.2
+Pygments==2.7.4
 pyobjc-core==2.5.1
 pyobjc-framework-Accounts==2.5.1
 pyobjc-framework-AddressBook==2.5.1
